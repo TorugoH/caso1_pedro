@@ -4,7 +4,7 @@
 
 https://youtu.be/8e0AKRr22O8
 
-
+# Código do video
 ```bash 
 # Link da documentação citada no video: https://docs.python.org/pt-br/3/tutorial/datastructures.html
 
